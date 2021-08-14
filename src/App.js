@@ -47,6 +47,7 @@ function App() {
 
     const resume = () => start();
 
+    <script data-ad-client="ca-pub-6798447650051557" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
     return (
         <div className="main-section">
 
